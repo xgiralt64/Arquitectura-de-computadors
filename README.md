@@ -1,0 +1,1 @@
+# Repositori pràctiques Arquitectura computadors
